@@ -1,0 +1,1 @@
+Documenting my learing of ai and ml.
